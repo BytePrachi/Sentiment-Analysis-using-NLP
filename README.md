@@ -1,2 +1,1 @@
-• Sentiment Analysis determines if customer reviews are positive, negative, or neutral based on the expressed sentiments.
-• Utilized Naive Bayes, Recurrent Neural Network, and Transformer models (e.g., BERT)
+Sentiment Analysis is like a detective that reads customer reviews and decides whether they are happy, unhappy, or just okay. To do this, it uses special models like Naive Bayes, Recurrent Neural Network, and Transformers (like BERT). It's kind of like having different detectives with unique skills to understand how customers feel about something.
